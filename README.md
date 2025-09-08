@@ -32,21 +32,6 @@
 
 ---
 
-## 💼 About Me
-
-<div align="center">
-  👋 Hi! I'm Axel Aaron
-</div>
-
-```
-🎓 Computer Science student
-🏫 Technological University of the Philippines
-🎯 Back-end Development • Data Analytics • DevOps
-🎮 Music • Games • Anime • Code • Art
-```
-
----
-
 ## 🛠️ Skills
 
 <div>
