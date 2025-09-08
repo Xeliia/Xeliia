@@ -22,7 +22,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="340"/>
     </td>
     <td align="center" valign="top">
-      <img src="assets/vikala.gif" width="340" height="340"/>
+      <img src="assets/vikala.gif" width="382" height="498"/>
     </td>
   </tr>
 </table>
