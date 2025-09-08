@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="28%" align="right" />
+  <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="25%" margin-left="25px" align="right" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=38&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=900&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia" width="68%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=38&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=900&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia" width="70%" />
   
   <br><br>
   
