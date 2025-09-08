@@ -1,36 +1,38 @@
 <div align="center">
 
-  <!-- Top Row: Typing intro + GIF -->
   <table>
     <tr>
-      <!-- Typing Text -->
-      <td>
+      <!-- LEFT COLUMN -->
+      <td align="center" valign="top" width="70%">
+        <!-- Typing SVG -->
         <img 
           src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=38&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=800&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia" 
           alt="Typing SVG"
         />
-      </td>
-      <!-- GIF -->
-      <td>
-        <img 
-          src="assets/vikala.gif" 
-          alt="Vikala Banner GIF" 
-          height="180"
-        />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Info Box -->
-  <pre style="font-size: 1.05em; text-align: center; background: #f8f8ff; border-radius: 12px; padding: 16px; border: 1px solid #e1e4e8; display: inline-block; max-width: 600px;">
+        <br><br>
+        <!-- Info Box -->
+        <pre style="font-size: 1.05em; text-align: center; background: #f8f8ff; border-radius: 12px; padding: 16px; border: 1px solid #e1e4e8; display: inline-block; max-width: 600px;">
 👋 Hi! I'm Axel Aaron
 🎓 Computer Science student
 🏫 Technological University of the Philippines
 🎯 Back-end Development, Data Analytics, and DevOps
 🎮 Music • Games • Anime • Code • Art
-  </pre>
+        </pre>
+      </td>
+
+      <!-- RIGHT COLUMN -->
+      <td align="center" valign="middle" width="30%">
+        <img 
+          src="assets/vikala.gif" 
+          alt="Vikala Banner GIF" 
+          height="250"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 
 ## 💼 About Me
