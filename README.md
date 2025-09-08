@@ -34,14 +34,29 @@
 
 ## 💼 About Me
 
-<div align="center">
-  **👋 Hi! I'm Axel Aaron**
-</div>
+## 💼 About Me
 
-**🎓 Computer Science student**
-**🏫 Technological University of the Philippines**
-**🎯 Back-end Development • Data Analytics • DevOps**
-**🎮 Music • Games • Anime • Code • Art**
+<div align="center">
+
+👋 **Hi! I'm Axel Aaron**  
+🎓 Computer Science Student  
+🏫 Technological University of the Philippines  
+
+---
+
+💡 **Interests:**  
+- Back-end Development  
+- Data Analytics  
+- DevOps  
+
+🎮 **Hobbies:**  
+- Music  
+- Games  
+- Anime  
+- Code  
+- Art  
+
+</div>
 
 ---
 
