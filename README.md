@@ -13,28 +13,21 @@
 
 ---
 
+<div align="center">
+
 <table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="340"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="340"/>
-
-</td>
-<td rowspan="2">
-
-<img src="assets/vikala.gif" width="340" height="498"/>
-
-</td>
-</tr>
-<tr>
-<td>
-<!-- Empty row so the GIF spans the full height -->
-</td>
-</tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="340"/><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="340"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="assets/vikala.gif" width="340" height="340"/>
+    </td>
+  </tr>
 </table>
 
+</div>
 
 ---
 
