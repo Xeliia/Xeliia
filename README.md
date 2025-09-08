@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=1000&height=80&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia)](https://git.io/typing-svg)
 
 <div align="left" style="display: flex; align-items: center;">
-  <img src="assets/shigure.gif" align="right" height="140" alt="Shigure GIF"
+  <img src="assets/shigure.gif" align="right" height="288" alt="Shigure GIF"
        style="border: 2px solid #8e44ad; border-radius: 12px; margin-left: 16px; box-shadow: 0 4px 12px #00000022;" />
   <div>
     <b>👋 Hi! I'm Axel Aaron</b><br>
