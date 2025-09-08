@@ -2,7 +2,7 @@
   <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="28%" align="right" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=38&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=900&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia" width="68%" />
   <br><br>
-  <pre padding-right="25px" padding-left="25px">
+  <pre margin-right="50px">
 👋 Hi! I'm Axel Aaron
 🎓 Computer Science student
 🏫 Technological University of the Philippines
