@@ -1,28 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=1000&height=80&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/axel-aaron-arceleta/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Reisenity" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-Meister%23xeliia-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-aaron-arceleta/)
+  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Reisenity)
+  ![Discord](https://img.shields.io/badge/Discord-Meister%23xeliia-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/axel-aaron-arceleta)
 </div>
-
-<a href="https://www.linkedin.com/in/axel-aaron-arceleta/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
-</a>
-<a href="https://x.com/Reisenity" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="Twitter/X" />
-</a>
-<br>
-- [LinkedIn](https://www.linkedin.com/in/axel-aaron-arceleta/)  
-- [Twitter/X](https://x.com/Reisenity)  
-- [Credly](https://www.credly.com/users/axel-aaron-arceleta)  
-
-<sub>Feel free to connect or follow!</sub>
-
 
 ## 💼 About Me
 
