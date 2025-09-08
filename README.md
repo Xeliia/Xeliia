@@ -5,14 +5,16 @@
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=38&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=900&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia" width="68%" />
 
+  <br>
+
   <!-- Info block with padding so it doesn’t touch GIF -->
-  <div style="margin-right: 30%; text-align: center;">
+  <div style="margin-right: 30%; text-align: left;">
     <pre style="font-size: 1.1em; background: #f8f8ff; border-radius: 12px; padding: 16px; border: 1px solid #e1e4e8; display: inline-block; text-align: left;">
-👋 Hi! I'm Axel Aaron
-🎓 Computer Science student
-🏫 Technological University of the Philippines
-🎯 Back-end Development, Data Analytics, and DevOps
-🎮 Music • Games • Anime • Code • Art
+      👋 Hi! I'm Axel Aaron
+      🎓 Computer Science student
+      🏫 Technological University of the Philippines
+      🎯 Back-end Development • Data Analytics • DevOps
+      🎮 Music • Games • Anime • Code • Art
     </pre>
   </div>
 </div>
