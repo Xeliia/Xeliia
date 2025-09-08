@@ -1,6 +1,6 @@
 <div align="center">
   <div style="display: inline-block; vertical-align: middle;">
-    <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="250" style="border-radius: 16px; box-shadow: 0 4px 16px #00000022;" />
+    <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="100" style="border-radius: 16px; box-shadow: 0 4px 16px #00000022;" />
   </div>
   <div style="display: inline-block; vertical-align: middle; margin-left: 32px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=38&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=900&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia" width="400" />
