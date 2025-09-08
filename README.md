@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Info section (left) -->
-  <div style="display:inline-block; vertical-align:top; text-align:left; font-size:1.4em; line-height:1.6; margin-right:32px;">
+  <div style="display:inline-block; vertical-align:middle; text-align:left; font-size:1.4em; line-height:1.6; margin-right:32px;">
     <b>👋 Hi! I'm Axel Aaron</b><br>
     🎓 Computer Science student <br>
     🏫 Technological University of the Philippines <br>
@@ -12,11 +12,12 @@
   </div>
 
   <!-- GIF section (right) -->
-  <div style="display:inline-block; vertical-align:top;">
+  <div style="display:inline-block; vertical-align:middle;">
     <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="320" style="border-radius:16px;" />
   </div>
 
 </div>
+
 
 
 
