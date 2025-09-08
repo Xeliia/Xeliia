@@ -21,7 +21,7 @@
   </span>
 
   <span style="display: inline-block; vertical-align: top;">
-    <img src="assets/vikala.gif" width="382" height="498"/>
+    <img src="assets/vikala.gif" width="382" height="200"/>
   </span>
 </div>
 
