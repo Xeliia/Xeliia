@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="28%" align="right" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=38&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=900&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia" width="68%" />
-  
-  <br><br>
-  
-  <div style="margin-right:30%;">
-    <pre>
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="250" style="border-radius: 16px; box-shadow: 0 4px 16px #00000022;" />
+  </div>
+  <div style="display: inline-block; vertical-align: middle; margin-left: 32px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=38&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=900&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia" width="400" />
+    <br><br>
+    <pre style="font-size: 1.1em; text-align: left; background: #f8f8ff; border-radius: 12px; padding: 16px; border: 1px solid #e1e4e8;">
 👋 Hi! I'm Axel Aaron
 🎓 Computer Science student
 🏫 Technological University of the Philippines
-🎯 Back-end Development, Data Analytics, and DevOps
+🎯 Interested in Back-end Development, Data Analytics, and DevOps
 🎮 Music • Games • Anime • Code • Art
     </pre>
   </div>
