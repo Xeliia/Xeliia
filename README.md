@@ -15,7 +15,7 @@
 
 <div align="center">
   <!-- Column 1: stats + languages -->
-  <div align="left">
+  <div style="display: inline-block; vertical-align: top; text-align: left; margin-right: 32px;">
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="340"/>
     </div>
@@ -25,11 +25,10 @@
   </div>
 
   <!-- Column 2: GIF -->
-  <div align="right">
+  <div style="display: inline-block; vertical-align: top;">
     <img src="assets/vikala.gif" width="340" height="498"/>
   </div>
 </div>
-
 
 
 ---
