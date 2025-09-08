@@ -46,15 +46,13 @@
 
 ## 🛠️ Skills
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="Svelte" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="30" alt="PowerShell" />
-</div>
+| Stats & Languages | GIF |
+|------------------|-----|
+| 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="340"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="340"/>
+| <img src="assets/vikala.gif" width="340" height="498"/> |
+
 
 ---
 
