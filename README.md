@@ -27,3 +27,7 @@ Check out my pinned repositories for what I'm working on!
 - [Credly](https://www.credly.com/users/axel-aaron-arceleta)  
 
 <sub>Feel free to connect or follow!</sub>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Xeliia/Xeliia/output/snake.svg)
