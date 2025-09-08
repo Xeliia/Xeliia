@@ -1,26 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=1000&height=80&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia)](https://git.io/typing-svg)
 
 <div align="center">
-
-  <!-- Left side: Info box -->
-  <div style="display:inline-block; vertical-align:top; width:60%; max-width:500px; margin-right:20px;">
-
-  <pre style="font-size: 1.2em; line-height: 1.6; background:#0d1117; color:#c9d1d9; border-radius:12px; padding:16px; border:1px solid #30363d; text-align:left;">
-👋 Hi! I'm Axel Aaron
-🎓 Computer Science student
-🏫 Technological University of the Philippines
-🎯 Back-end Development, Data Analytics, and DevOps
-🎮 Music • Games • Anime • Code • Art
-    <div style="display:inline-block; vertical-align:top; width:35%; max-width:260px;">
-      <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="25%" style="border-radius:16px;"/>
-    </div>
+  <pre align="left">
+    👋 Hi! I'm Axel Aaron
+    🎓 Computer Science student
+    🏫 Technological University of the Philippines
+    🎯 Back-end Development, Data Analytics, and DevOps
+    🎮 Music • Games • Anime • Code • Art
   </pre>
-
-  </div>
-
-  <!-- Right side: GIF -->
-
-
+  <pre align="right">
+    <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="25%"/>
+  </pre>
 </div>
 
 ## 💼 About Me
