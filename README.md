@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&pause=500&center=true&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia)](https://git.io/typing-svg)
 
 I'm just your average computer science joe, passionate about creating fun things with code. My dream is to work in DevOps or as a Data Analyst, but right now, I'm a student exploring the tech universe one project at a time.
 
