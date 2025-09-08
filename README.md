@@ -13,8 +13,12 @@
 
 ---
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="320"/> | <img src="assets/vikala.gif" width="180"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="320"/> |
-|:--:|:--:|:--:|
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="350"/>
+  <img src="assets/vikala.gif" width="200" style="margin: 0 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="350"/>
+</div>
+
 
 ---
 
