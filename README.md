@@ -19,8 +19,8 @@
   <tr>
     <td align="center" valign="top">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="382" height="249"/><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="382" height="249"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=false" width="382" height="249"/><br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=false" width="382" height="249"/>
     </td>
     <td align="center" valign="top">
       <img src="assets/vikala.gif" width="332" height="448"/>
