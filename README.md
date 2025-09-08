@@ -20,7 +20,7 @@ Check out my pinned repositories for what I'm working on!
 
 ---
 
-## 🌐 Find Me Elsewhere
+## 🌐 Find Me / Connect
 
 - [LinkedIn](https://www.linkedin.com/in/axel-aaron-arceleta/)  
 - [Twitter/X](https://x.com/Reisenity)  
