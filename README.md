@@ -18,8 +18,8 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="340"/><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="340"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="382" height="249"/><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="382" height="249"/>
     </td>
     <td align="center" valign="top">
       <img src="assets/vikala.gif" width="382" height="498"/>
@@ -58,7 +58,7 @@
 
 ## 📊 GitHub Stats
 
-![Xeliia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=false)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=false)
 
 ---
