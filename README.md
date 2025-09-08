@@ -5,7 +5,7 @@
   
   <br><br>
   
-  <div style="margin-right:30%;">
+  <div>
     <pre>
 👋 Hi! I'm Axel Aaron
 🎓 Computer Science student
