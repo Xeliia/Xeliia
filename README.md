@@ -1,20 +1,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=1000&height=80&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 32px ">
-  <div align="left">
-    <pre style="font-size: 1.1em; text-align: center; background: #f8f8ff; border-radius: 12px; padding: 16px; border: 1px solid #e1e4e8;"
-    👋 Hi! I'm Axel Aaron
-    🎓 Computer Science student
-    🏫 Technological University of the Philippines
-    🎯 Interested in Back-end Development, Data Analytics, and DevOps
-    🎮 Music • Games • Anime • Code • Art
-    </pre>>
-  </div>
-  <div align="right">
+<table align="center">
+  <tr>
+    <!-- Text Section -->
+    <td>
+      <div align="center">
+        <pre style="font-size: 1.1em; text-align: center; background: #f8f8ff; border-radius: 12px; padding: 16px; border: 1px solid #e1e4e8; display: inline-block;">
+👋 Hi! I'm Axel Aaron
+🎓 Computer Science student
+🏫 Technological University of the Philippines
+🎯 Interested in Back-end Development, Data Analytics, and DevOps
+🎮 Music • Games • Anime • Code • Art
+        </pre>
+      </div>
+    </td>
+
+    <!-- GIF Section -->
+    <td>
       <img src="assets/vikala.gif" alt="Vikala Banner GIF" height="180"
-       style="border: 2px solid #8e44ad; border-radius: 16px; box-shadow: 0 4px 16px #00000022;" />
-  </div>
-</div>
+           style="border: 2px solid #8e44ad; border-radius: 16px; box-shadow: 0 4px 16px #00000022;" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
