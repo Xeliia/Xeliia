@@ -1,6 +1,6 @@
-<table>
+<table border="0">
   <tr>
-    <td>
+    <td valign="top" width="70%">
       <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=38&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia" />
       <pre>
 👋 Hi! I'm Axel Aaron
@@ -10,11 +10,12 @@
 🎮 Music • Games • Anime • Code • Art
       </pre>
     </td>
-    <td>
+    <td valign="top" width="30%">
       <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="220" style="border-radius: 12px;"/>
     </td>
   </tr>
 </table>
+
 
 
 
