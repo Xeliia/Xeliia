@@ -17,7 +17,7 @@
 
   <!-- Right side: GIF -->
   <div style="display:inline-block; vertical-align:top; width:35%; max-width:260px;">
-    <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="100%" style="border-radius:16px;"/>
+    <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="25%" style="border-radius:16px;"/>
   </div>
 
 </div>
