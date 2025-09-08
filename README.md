@@ -3,23 +3,20 @@
 <div align="center">
 
   <!-- Info section (left) -->
-  <div style="display:inline-block; vertical-align:middle; text-align:left; font-size:1.4em; line-height:1.6; margin-right:32px;">
+  <span style="display:inline-block; vertical-align:middle; text-align:left; font-size:1.4em; line-height:1.6; margin-right:32px; max-width:500px;">
     <b>👋 Hi! I'm Axel Aaron</b><br>
     🎓 Computer Science student <br>
     🏫 Technological University of the Philippines <br>
     🎯 Back-end Development, Data Analytics, and DevOps <br>
     🎮 Music • Games • Anime • Code • Art
-  </div>
+  </span>
 
   <!-- GIF section (right) -->
-  <div style="display:inline-block; vertical-align:middle;">
+  <span style="display:inline-block; vertical-align:middle;">
     <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="320" style="border-radius:16px;" />
-  </div>
+  </span>
 
 </div>
-
-
-
 
 
 ## 💼 About Me
