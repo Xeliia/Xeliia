@@ -7,9 +7,17 @@
   [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Reisenity)
   ![](https://img.shields.io/badge/Discord-Meister%23xeliia-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   [![](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/axel-aaron-arceleta)
-  
+
   </p>
 </div>
+
+---
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=false) | ![Vikala GIF](assets/vikala.gif) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=false) |
+|:--:|:--:|:--:|
+
+---
+
 ## 💼 About Me
 
 - 🎯 **Dream roles:**  
