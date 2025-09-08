@@ -20,7 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="340"/>
   </span>
   <span style="display: inline-block; vertical-align: top; margin-left: 24px;">
-    <img src="assets/vikala.gif" width="340"/>
+    <img src="assets/vikala.gif" width="150"/>
   </span>
 </div>
 
