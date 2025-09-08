@@ -9,7 +9,7 @@ I'm just your average computer science joe, passionate about creating fun things
 - 🎯 **Dream roles:** DevOps, Data Analyst  
 - 🛠️ **Familiar with:** Python, Svelte, Linux, Bash, Ansible, SQL, PowerShell, OpenSSH, nmap  
   <sub>(Always learning, not a master—yet!)</sub>
-- 🎮 **Hobbies:** Drawing for fun, gaming, chasing new tech rabbit holes
+- 🎮 **Hobbies:** Drawing for fun, Gaming, Exploring new tech
 
 ---
 
@@ -22,12 +22,8 @@ Check out my pinned repositories for what I'm working on!
 
 ## 🌐 Find Me Elsewhere
 
-- [LinkedIn](#)  
-- [Twitter/X](#)  
-- [Credly](#)  
+- [LinkedIn](https://www.linkedin.com/in/axel-aaron-arceleta/)  
+- [Twitter/X](https://x.com/Reisenity)  
+- [Credly](https://www.credly.com/users/axel-aaron-arceleta)  
 
 <sub>Feel free to connect or follow!</sub>
-
----
-
-<sub>Minimalist profile powered by curiosity and caffeine.</sub>
