@@ -13,7 +13,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <span style="display: inline-block; vertical-align: top;">
     <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="340"/>
     <br>
