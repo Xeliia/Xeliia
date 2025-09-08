@@ -14,9 +14,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="382" heigh="498"/>
-  <img src="assets/vikala.gif" width="382" heigh="498" style="margin: 0 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="382" heigh="498"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="382" height="498"/>
+  <img src="assets/vikala.gif" width="382" height="498" style="margin: 0 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="382" height="498"/>
 </div>
 
 
