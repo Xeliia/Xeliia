@@ -34,12 +34,14 @@
 
 ## 💼 About Me
 
-- 🎯 **Dream roles:**  
-  ![DevOps](https://img.shields.io/badge/DevOps-blue?style=for-the-badge)
-  ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-green?style=for-the-badge)
-- 🛠️ **Familiar with:** Python, Svelte, Linux, Bash, Ansible, SQL, PowerShell, OpenSSH, nmap  
-  <sub>(Always learning, not a master—yet!)</sub>
-- 🎮 **Hobbies:** Drawing for fun, Gaming, Exploring new tech
+<div align="center">
+  **👋 Hi! I'm Axel Aaron**
+</div>
+
+**🎓 Computer Science student**
+**🏫 Technological University of the Philippines**
+**🎯 Back-end Development • Data Analytics • DevOps**
+**🎮 Music • Games • Anime • Code • Art**
 
 ---
 
