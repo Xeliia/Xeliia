@@ -1,8 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=1000&height=80&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia)](https://git.io/typing-svg)
 
-<pre>
-Hi! I'm Axel Aaron, a third year computer science student at Technological University of the Philippines.  I'm passionate about DevOps, Data Analytics, and building creative projects with code.  Currently, I'm exploring new technologies and working on personal projects while studying.
-</pre>
+<div align="left">
+  <img src="assets/shigure.gif" align="right" height="120" alt="Shigure GIF" />
+  <b>Hi! I'm Axel Aaron</b><br>
+  Third year Computer Science student at Technological University of the Philippines.<br>
+  Passionate about DevOps, Data Analytics, and building creative projects with code.<br>
+  Currently exploring new technologies and working on personal projects while studying.
+</div>
+---
 ---
 
 ## 💼 About Me
