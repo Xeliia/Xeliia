@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=1000&height=80&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia)](https://git.io/typing-svg)
 
-
-**👋 Hi! I'm Axel Aaron**  
-🎓 Computer Science student  
-🏫 Technological University of the Philippines  
-🎯 Back-end Development, Data Analytics, and DevOps  
-🎮 Music • Games • Anime • Code • Art  
+<a href="https://www.linkedin.com/in/axel-aaron-arceleta/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+</a>
+<a href="https://x.com/Reisenity" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="Twitter/X" />
+</a>
 
 ## 💼 About Me
 
@@ -44,17 +44,6 @@
 Check out my pinned repositories for what I'm working on!  
 <sub>Portfolio and favorite projects will show up here as I build them out.</sub>
 
----
-
-## 🌐 Find Me / Connect
-
-- [LinkedIn](https://www.linkedin.com/in/axel-aaron-arceleta/)  
-- [Twitter/X](https://x.com/Reisenity)  
-- [Credly](https://www.credly.com/users/axel-aaron-arceleta)  
-
-<sub>Feel free to connect or follow!</sub>
-
----
 
 ## 🐍 Contribution Snake
 
