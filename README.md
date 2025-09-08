@@ -34,8 +34,6 @@
 
 ## 💼 About Me
 
-## 💼 About Me
-
 <div align="center">
 
 👋 **Hi! I'm Axel Aaron**  
