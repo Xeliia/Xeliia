@@ -14,13 +14,14 @@
 ---
 
 <div align="center">
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="382" height="498"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="382" height="498"/>
-  </div>
-  <div align="right">
-    <img src="assets/vikala.gif" width="382" height="498" style="margin: 0 20px;"/>
-  </div>
+  <span style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Xeliia&show_icons=true&theme=dracula&hide_border=true" width="340"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeliia&layout=compact&theme=dracula&hide_border=true" width="340"/>
+  </span>
+  <span style="display: inline-block; vertical-align: top; margin-left: 24px;">
+    <img src="assets/vikala.gif" width="340"/>
+  </span>
 </div>
 
 
