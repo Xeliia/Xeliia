@@ -7,9 +7,11 @@
     🏫 Technological University of the Philippines
     🎯 Back-end Development, Data Analytics, and DevOps
     🎮 Music • Games • Anime • Code • Art
-  </pre>
-  <pre align="right">
-    <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="25%"/>
+    <pre align="right">
+      <div style="display:inline-block; vertical-align:top; width:35%; max-width:260px;">
+        <img src="assets/vikala.gif" alt="Vikala Banner GIF" width="25%" style="border-radius:16px;"/>
+      </div>
+    </pre>
   </pre>
 </div>
 
