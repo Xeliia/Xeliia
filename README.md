@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=500&center=true&multiline=true&repeat=false&width=1000&height=80&lines=Welcome+to+my+Profile!;I+am+Axel%2C+but+you+may+know+me+as+Xeliia)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="assets/vikala.gif" alt="Vikala Banner GIF" align="right"/>
+  <img src="assets/vikala.gif" alt="Vikala Banner GIF" align="right" width="25%"/>
 
-<pre>
-👋 Hi! I'm Axel Aaron
-🎓 Computer Science student
-🏫 Technological University of the Philippines
-🎯 Interested in Back-end Development, Data Analytics, and DevOps
-🎮 Music • Games • Anime • Code • Art
-</pre>
+  <pre>
+  👋 Hi! I'm Axel Aaron
+  🎓 Computer Science student
+  🏫 Technological University of the Philippines
+  🎯 Interested in Back-end Development, Data Analytics, and DevOps
+  🎮 Music • Games • Anime • Code • Art
+  </pre>
 </div>
 
 ---
