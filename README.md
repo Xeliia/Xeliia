@@ -11,8 +11,6 @@
   </pre>
 </div>
 
----
-
 ## 💼 About Me
 
 - 🎯 **Dream roles:**  
